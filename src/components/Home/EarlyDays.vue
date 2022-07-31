@@ -1,7 +1,7 @@
 <template>
   <div class="earlyDays">
     <TitleSection scene="earlyTitle">
-      <TitleFunction params="2008,2011" subtitle="&lt;table&gt;&lt;tr&gt;&lt;td&gt;..."
+      <TitleFunction params="2011,2018" subtitle="&lt;table&gt;&lt;tr&gt;&lt;td&gt;..."
         >earlyDays</TitleFunction
       >
 
@@ -14,7 +14,7 @@
 
     <Scene id="early-days">
       <TextBlock>
-        <p>Design & illustration.</p>
+        <p>Mobile & Web.</p>
         <p class="-big">
           A frontend developer<br />
           <span class="-purple">with one foothold in arts.</span>
@@ -24,15 +24,16 @@
     <Scene id="early-days2">
       <TextBlock>
         <p class="-big">
-          <span class="-purple">Freelancing</span> &
-          <span class="-purple">startuping,</span><br />
-          <span class="-purple">Inches</span> &
-          <span class="-purple">pixels.</span>
+          <span class="-purple">Consulting</span> &
+          <span class="-purple">Advertising,</span><br />
+          <span class="-purple">NFT</span> &
+          <span class="-purple">Defi</span> projects
         </p>
         <p>
-          Illustrating album arts, book covers, and billboards as a freelancer.
-          And designing websites, online magazines, and news portals at my first
-          web studio.<br />
+          Apart from developing web3 projects, we can take them on in a deeper level
+          providing our past-experiences and knowledge in the space to handle any project from A-Z.
+          A team of investors are also ready to provide consultancy services as well as advertising for any 
+          defi or NFT project.<br />
         </p>
       </TextBlock>
     </Scene>

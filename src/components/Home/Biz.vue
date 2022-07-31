@@ -1,26 +1,26 @@
 <template>
   <div class="bizScene">
     <TitleSection scene="bizTitle">
-      <TitleFunction params="2011,2019">biz</TitleFunction>
+      <TitleFunction params="2018,2022">Blockchain</TitleFunction>
     </TitleSection>
 
     <Scene id="biz1">
       <TextBlock>
         <p class="-big">
-          From 2011 to 2019 I was
-          <strong class="-purple">Head of Frontend</strong>
-          @
+          From 2011 up to this point we handled
+          <strong class="-purple">Software solutions</strong>
+            
           <a
             href="https://www.bizcommerce.com.br/"
             target="_blank"
             title="Visit Biz Commerce's website"
           >
-            biz</a
+            @Soluhunt</a
           >.
         </p>
         <p>
-          A SaaS e-commerce platform focused on simplifying and customizing the
-          use of Magento.
+          We handle all your software cravings from web development, backend management and even Smart contract
+          development with web3 integration, contract auditing and unit testing
         </p>
       </TextBlock>
       <template #container>
@@ -40,7 +40,7 @@
         <p>
           Throughout these years we delivered hundreds of
           <span class="-big -purple">
-            tools, modules, integrations, and custom projects
+            tools, modules, integrations, audits and custom projects
           </span>
           for online stores and service providers.
         </p>
@@ -49,11 +49,11 @@
     <Scene id="biz3">
       <TextBlock>
         <p>
-          biz currently runs
+          Some of our Blockchain services
           <span class="-big">
-            <span class="-purple">+1200 stores</span>, payment & shipping
-            integrations with
-            <span class="-purple">thousands of transactions</span> daily.
+            <span class="-purple">Defi protocols</span>, Marketplace designing & developing, NFT collections,
+            Token creation with custom tokenomics, Staking...
+            <span class="-purple">All with full web3.js integration</span> daily.
           </span>
         </p>
       </TextBlock>

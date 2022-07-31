@@ -3,11 +3,11 @@
     <Scene id="Ghibli">
       <TextBlock>
         <p>
-          Before designing for web, I was creating
+          Some other services we offer
           <span class="-big -purple">
-            3D models, matte painting and advertisements
+            nft art, matte painting and advertisements
           </span>
-          for many brands, TV commercials, games...
+          for NFT projects, defi protocol websites, social advertising...
         </p>
       </TextBlock>
 
