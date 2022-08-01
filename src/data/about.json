@@ -18,14 +18,17 @@
     "label": "CV"
   },
   "description": [
-    "Frontend developer heavily influenced by storytelling, interactions, and UX. Addicted to music, visual arts, and games.",
-    "From Brazil, based in Barcelona."
+    "Software solutions company ready to turn your vision into tangible reality, supplying you with any technology to accompany you along the way from front end, back end, blockchain integration and security."
   ],
-  "subtitles": ["he/him"],
+  "subtitles": ["If you can think it, We can do it."],
   "skills": [
-    ["Web app architecture", "Strategic thinking", "Storytelling"],
-    ["Frontend", "UX/UI"],
+    ["Web app development", "Smart Contract development", "Code auditing"],
+    ["Frontend", "UX/UI", "Backend"],
     [
+      "Solidity",
+      "Rust",
+      "Java",
+      "Python",
       "JavaScript",
       "CSS",
       "HTML",
@@ -36,42 +39,46 @@
       "SVG",
       "WebGL"
     ],
-    ["Figma", "Photoshop", "Illustrator"]
+    ["Art generation", "Marketing", "Consulting"]
   ],
   "experiences": [
     {
-      "position": "Senior Frontend Engineer",
-      "company": "Activision Blizzard King",
-      "time": "* current"
+
     },
     {
-      "position": "Senior Frontend Engineer",
-      "company": "ON AG",
-      "time": "2020-2022"
+      "position": "NFT Marketplace with advanced auctioning mechanism",
+      "company": "",
+      "time": "* in Progress"
     },
     {
-      "position": "Senior Frontend Engineer",
-      "company": "fromAtoB",
-      "time": "2019-2020"
+      "position": "Defi Protocol with custom tokenomics",
+      "company": "",
+      "time": "Done"
     },
     {
-      "position": "Head of Frontend & UX",
-      "company": "Biz",
-      "time": "2011 - 2019"
+      "position": "UI/UX for a defi protocol with integrated DEX",
+      "company": "",
+      "time": "Done"
     },
     {
-      "position": "Senior Frontend Developer",
-      "company": "Tray",
-      "time": "2008 - 2010"
+      "position": "NFT mintig smart contract with advanced whitelisting architecture",
+      "company": "",
+      "time": "Done"
     },
     {
-      "position": "Web Designer",
-      "company": "E2W",
-      "time": "2006 - 2008"
+      "position": "Staking smart contract with custom token reward distribution",
+      "company": "",
+      "time": "Done"
     },
     {
-      "position": "Freelancer",
-      "company": "Illustrations & Web development"
+      "position": "CMS for auto contract deployment mechanism",
+      "company": "",
+      "time": "* in Progress"
+    },
+    {
+      "position": "Custom ipfs development with node distribution",
+      "company": "",
+      "time": "* in Progress"
     }
   ],
   "languages": {

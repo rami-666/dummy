@@ -2,29 +2,11 @@
   <div id="about" class="wrapper">
     <div class="pic"></div>
     <div class="static-container">
-      <h1 class="title">about(<span class="params">iuri</span>)</h1>
+      <h1 class="title">about(<span class="params">Soluhunt</span>)</h1>
 
       <TextBlock>
         <div class="first-fold">
-          <ul class="about-contact">
-            <li v-for="link in data.links" :key="link.url">
-              <a :href="link.url" :title="link.title" target="_blank">
-                {{ link.label || null }}
-                <Component v-if="link.icon" :is="link.icon" />
-              </a>
-            </li>
-            <li>
-              Download my
-              <a
-                :href="`./${data.cv.file}`"
-                :title="data.cv.title"
-                target="_blank"
-                class="bt"
-              >
-                {{ data.cv.label }} <CVIcon />
-              </a>
-            </li>
-          </ul>
+
 
           <p class="-purple">
             <span v-for="(line, i) in data.description" :key="i">
@@ -180,12 +162,12 @@ export default {
     position: fixed;
     z-index: 9999;
     top: 50%;
-    left: -12vw;
+    left: -8vw;
     transform: translate3d(0, -50%, 0);
-    width: 43vw;
+    width: 45vw;
     aspect-ratio: 1/1;
-    border-radius: 100%;
-    background-image: url(../assets/me.jpg);
+    border-radius: 0%;
+    background-image: url(../assets/me.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;

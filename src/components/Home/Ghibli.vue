@@ -25,19 +25,7 @@
     </Scene>
     <Scene id="Ghibli2" />
     <Scene id="Ghibli3">
-      <TextBlock>
-        <p class="-big">
-          And studying
-          <span class="-purple"
-            >Philosophy, Japanese animation, fine arts and video games.</span
-          >
-        </p>
-        <p>
-          All of these subjects have a major impact on how I start and develop
-          my creative processes, leading the way on how I view web development
-          today.
-        </p>
-      </TextBlock>
+
     </Scene>
     <Scene id="Ghibli4" />
   </div>

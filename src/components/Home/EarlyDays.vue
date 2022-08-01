@@ -38,17 +38,7 @@
       </TextBlock>
     </Scene>
     <Scene id="early-days3">
-      <TextBlock>
-        <p>
-          We've proudly fueled the starring<br />
-          of some big Brazilian names such as
-          <span class="-big -purple"
-            ><em>Porta dos Fundos</em>, <em>Kibe Loco</em>, Fhits.tv,
-            <em>Galo Frito</em></span
-          >
-          among many others...
-        </p>
-      </TextBlock>
+      
     </Scene>
   </div>
 </template>

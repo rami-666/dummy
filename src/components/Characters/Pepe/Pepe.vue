@@ -1,46 +1,8 @@
 <template>
   <div>
     <div class="pepe bg-head">
-      <div class="blink"></div>
-      <div class="keyboard"></div>
-      <div class="minas"></div>
-      <div class="rio">
-        <div class="particles"></div>
-        <div class="vase">
-          <div class="bg-rio_vase_foliage_3"></div>
-          <div class="bg-rio_vase_foliage_2"></div>
-          <div class="bg-rio_vase_foliage_1"></div>
-          <div class="bg-rio_vase"></div>
-        </div>
-        <div class="bg-rio_pao_cristo"></div>
+      
 
-        <div class="waterfall"></div>
-
-        <div class="bg-rio_palmtree_1"></div>
-        <div class="bg-rio_palmtree_2"></div>
-      </div>
-      <div class="am-pa">
-        <div class="bg-ampa_foliage_3"></div>
-        <div class="bg-ampa_tree_2"></div>
-        <div class="bg-ampa_foliage_2"></div>
-        <div class="bg-ampa_parrot_wing"></div>
-        <div class="bg-ampa_foliage_1"></div>
-        <div class="bg-ampa_ver_o_peso"></div>
-        <div class="bg-ampa_tree_1"></div>
-        <div class="bg-ampa_oxes"></div>
-      </div>
-      <div class="metals">
-        <div class="bg-metals_sax"></div>
-        <div class="bg-metals_trumpet"></div>
-        <div class="bg-metals_trombone">
-          <div class="bg-metals_trombone_thing"></div>
-        </div>
-      </div>
-
-      <div class="bonfim-church"></div>
-      <div class="bonfim b1"></div>
-
-      <div class="ear bg-head-ear"></div>
     </div>
   </div>
 </template>
@@ -241,7 +203,7 @@ export default {
   transform-origin: 0 0;
 
   &.bg-head {
-    width: 1262px;
+    width: 100%;
     height: 1651px;
     background: url('./assets/head.png') -1262px 0 no-repeat;
     background-size: 200% 100%;
