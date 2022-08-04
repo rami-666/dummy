@@ -16,8 +16,8 @@
       <TextBlock>
         <p>Mobile & Web.</p>
         <p class="-big">
-          A frontend developer<br />
-          <span class="-purple">with one foothold in arts.</span>
+          Everything Software<br />
+          <span class="-purple">Mixed with Decentralization.</span>
         </p>
       </TextBlock>
     </Scene>

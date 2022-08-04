@@ -5,7 +5,7 @@ import NProgress from 'nprogress'
 
 Vue.use(Router)
 
-const TITLE = 'iuri.is'
+const TITLE = 'Soluhunt.is'
 const URL = 'https://iuri.is/'
 const ABOUT =
   'Frontend developer heavily influenced by storytelling, interactions, and UX. Addicted to music, visual arts, and games.'
@@ -60,7 +60,7 @@ const router = new Router({
       name: '.about()',
       component: () => import('./views/About.vue'),
       meta: {
-        title: 'iuri.about',
+        title: 'Soluhunt.about',
         bodyClass: 'page-about',
         metaTags: [
           {
