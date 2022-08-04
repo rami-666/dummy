@@ -5,7 +5,7 @@
 
     <TitleSection scene="curriculum">
       <TitleFunction params="/^.*$/gi" subtitle="&lt;WorkShowcase&gt;"
-        >myCV</TitleFunction
+        >ourPortfolio</TitleFunction
       >
     </TitleSection>
 

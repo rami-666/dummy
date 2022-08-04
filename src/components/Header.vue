@@ -38,12 +38,7 @@
               >.email()</a
             >
           </li>
-          <li v-for="link in data.links" :key="link.url" class="social-link">
-            <a :href="link.url" :title="link.title" target="_blank">
-              {{ link.label || null }}
-              <Component v-if="link.icon" :is="link.icon" />
-            </a>
-          </li>
+
         </ul>
       </nav>
     </div>
