@@ -34,7 +34,7 @@
             <router-link to="/about" title="About me">.about()</router-link>
           </li>
           <li>
-            <a :href="`mailto:${data.email}`" title="Send me an email"
+            <a :href="`mailto:soluhunt@gmail.com`" title="Send me an email"
               >.email()</a
             >
           </li>
