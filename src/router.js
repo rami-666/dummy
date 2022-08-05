@@ -6,9 +6,9 @@ import NProgress from 'nprogress'
 Vue.use(Router)
 
 const TITLE = 'Soluhunt.is'
-const URL = 'https://iuri.is/'
+const URL = 'https://soluhunt.netlify.app/'
 const ABOUT =
-  'Frontend developer heavily influenced by storytelling, interactions, and UX. Addicted to music, visual arts, and games.'
+  'Software development company with a love for Web3. If you can think it, we can do it.... Simple.'
 
 const router = new Router({
   mode: 'history',
