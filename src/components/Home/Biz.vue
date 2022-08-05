@@ -11,9 +11,9 @@
           <strong class="-purple">Software solutions</strong>
             
           <a
-            href="https://www.bizcommerce.com.br/"
+            href="https://soluhunt.netlify.app/"
             target="_blank"
-            title="Visit Biz Commerce's website"
+            title="Visit Soluhunt official website"
           >
             @Soluhunt</a
           >.
