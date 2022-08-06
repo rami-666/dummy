@@ -205,7 +205,7 @@ export default {
   &.bg-head {
     width: 100%;
     height: 1651px;
-    background: url('./assets/head.png') no-repeat ;
+    background: url('./assets/noBack.png') no-repeat ;
     background-size: 100% 100%;
   }
   div {
@@ -225,7 +225,7 @@ export default {
     z-index: 20;
     width: 100%;
     height: 100%;
-    background: url('./assets/head.png') 0 0 no-repeat;
+    background: url('./assets/noBack.png') 0 0 no-repeat;
     background-size: 200% 100%;
   }
   /*am/pa*/
